@@ -7,7 +7,7 @@ public class Lab022_Numeric_Data_Type {
     char c='a';
     long l= 1234567891L;
 
-    float f=3.145f;
+    float f=3.145F;
 
 
 
