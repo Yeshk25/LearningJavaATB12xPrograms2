@@ -5,7 +5,7 @@ public class Task1 {
         System.out.println("Print the 5th Table:-");
         System.out.println("----------------------");
         int num=5;
-        System.out.printf("\n %d * 1 = %d", num,num*1);
+        System.out.printf("\n %d * 1 = %d", num,num);
         System.out.printf("\n %d * 2 = %d", num,num*2);
         System.out.printf("\n %d * 3 = %d", num,num*3);
         System.out.printf("\n %d * 4 = %d", num,num*4);
