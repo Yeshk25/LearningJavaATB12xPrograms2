@@ -1,4 +1,4 @@
-package ex_02_Java_Basics_Part_2;
+package Tasks;
 
 public class Task1 {
     public static void main(String[] args) {
