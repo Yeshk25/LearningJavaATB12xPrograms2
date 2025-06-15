@@ -11,7 +11,7 @@ public class Lab87_Real_Switch_Automation {
 
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the browser");
-        String browser = scanner.next();
+        String browser=scanner.next();
         browser = browser.toLowerCase(); // lower(Chrome, CHROME, CHrome) == chrome
 
         switch (browser) {
